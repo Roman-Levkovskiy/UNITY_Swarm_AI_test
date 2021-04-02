@@ -1,0 +1,1 @@
+This is test of swarm intelligence of zombies for my CricleLand game. In final build I don't use it, but I have it in the code.
